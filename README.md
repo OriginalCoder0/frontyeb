@@ -1,14 +1,10 @@
-智慧云办公管理系统
-
-[TOC]
-
-
+# 智慧云办公管理系统
 
 ## 一、项目源码
 
-|        | 后端源码 | 前端源码 |
-| ------ | -------- | -------- |
-| GitHub |          |          |
+|        | 后端源码                                 | 前端源码                                   |
+| ------ | ---------------------------------------- | ------------------------------------------ |
+| GitHub | https://github.com/OriginalCoder0/endyeb | https://github.com/OriginalCoder0/frontyeb |
 
 
 
@@ -22,7 +18,7 @@
 
 
 
-![智慧云办公](./images/智慧云办公.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831652799-智慧云办公.png)
 
 
 
@@ -72,7 +68,7 @@
 
 #### 4.0 接口文档
 
-![前后端接口文档](./images/ICOID.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831697421-ICOID.png)
 
 
 
@@ -80,61 +76,59 @@
 
 ##### 4.1 登录页
 
-![登录页](./images/login.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831715788-login.png)
 
 #### 4.2 首页
 
 ##### 4.2 首页
 
-![首页](./images/home.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831735091-home.png)
 
 #### 4.3 员工资料
 
-##### 4.3.1 员工基本资料 
-
-![员工基本资料](README.assets/empbasic-1625814003790.png)
+##### 4.3.1 员工基本资料 ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831802800-empbasic.png)
 
 
 
 ##### 4.3.2 员工基本资料搜索
 
-![员工基本资料搜索](./images/empsearch.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831822523-empsearch.png)
 
 ##### 4.3.3 员工基本资料高级搜索
 
-![员工基本资料高级搜索](./images/empAdvSearch.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831838898-empAdvSearch.png)
 
 ##### 4.3.4 添加员工信息
 
-![添加员工](./images/addEmp.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831855210-addEmp.png)
 
 
 
 ##### 4.3.5 修改员工信息
 
-![修改员工信息](./images/editEmp.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831871830-editEmp.png)
 
 ##### 4.3.6 删除员工信息
 
-![删除员工信息](./images/delEmp.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831889869-delEmp.png)
 
 #### 4.4 薪资管理
 
 ##### 4.4.1 工资账套页
 
-![工资账套页](./images/salSob.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831905980-salSob.png)
 
 ##### 4.4.2 添加工资账套
 
-![添加工资账套](./images/addSaSob.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831919821-addSaSob.png)
 
 ##### 4.4.3 员工账套页
 
-![员工账套页](./images/empSalSob.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625831946829-empSalSob.png)
 
 ##### 4.4.4 修改员工工资账套
 
-![修改员工工资账套](./images/editEmpSalSob.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832005888-editEmpSalSob.png)
 
 #### 4.5 系统管理
 
@@ -142,31 +136,31 @@
 
 + 部门管理页
 
-  ![部门管理](./images/sysbasic.png)
+  ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832026894-sysbasic.png)
 
 + 添加部门
 
-  ![添加部门](./images/sysAddDep.png)
+  ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832057441-sysAddDep.png)
 
   
 
 + 职位管理
 
-  ![职位管理](./images/sysPos.png)
+  ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832108528-sysPos.png)
 
 + 职称管理
 
-  ![职称管理](./images/sysPro.png)
+  ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832123198-sysPro.png)
 
 + 权限组
 
-  ![权限组](./images/sysPer.png)
+  ![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832140351-sysPer.png)
 
 ## 五、邮件发送
 
 在基本资料页，添加员工信息成功后，会立即通过项目子模块`Mail`监控，进行入职欢迎邮件的发送！
 
-<img src="./images/mail.jpg" alt="邮件发送" style="zoom:30%;" />
+<img src="https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832160646-mail.jpg" style="zoom:33%;" />
 
 
 
@@ -174,18 +168,18 @@
 
 项目架构
 
-<img src="./images/structure.png" alt="项目架构" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832185612-structure.png" style="zoom:50%;" />
 
 后端仓库
 
 ```git
-git clone 
+git clone https://github.com/OriginalCoder0/endyeb
 ```
 
 前端仓库
 
 ```git
-git clone 
+git clone https://github.com/OriginalCoder0/frontyeb
 ```
 
 ### 6.1 后端
@@ -231,9 +225,9 @@ npm install stompjs　
 
 WebSocket聊天效果如下：
 
-![聊天界面](./images/chat1.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832235607-chat1.png)
 
-![聊天界面](./images/chat2.png)
+![](https://cdn.jsdelivr.net/gh/OriginalCoder0/gallery@master/images/1625832300881-chat2.png)
 
 
 
